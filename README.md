@@ -1,4 +1,4 @@
-![]( https://images.app.goo.gl/RGojvjiefyoG7qrx6)
+![](https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png)
 
 # Specializations - AR/VR ― C#
 
