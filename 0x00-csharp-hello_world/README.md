@@ -1,4 +1,4 @@
-![]( https://images.app.goo.gl/RGojvjiefyoG7qrx6)
+![](https://images.app.goo.gl/RGojvjiefyoG7qrx6)
 
 # 0x00. C# - Hello, World
 
