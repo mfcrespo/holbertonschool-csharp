@@ -6,7 +6,7 @@ namespace _3_new_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Programming is like building a multilingual puzzle");
+            Console.WriteLine("\"Programming is like building a multilingual puzzle");
         }
     }
 }
