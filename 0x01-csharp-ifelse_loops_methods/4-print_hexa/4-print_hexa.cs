@@ -7,7 +7,7 @@ class Program
 	int i;
 	for (i = 0 ; i < 99 ; i++)
 	{
-		Console.Write("{0} = 0x{0:X}\n", i);
+		Console.Write("{0} = 0x{0:x}\n", i);
 	}
     }
 }
