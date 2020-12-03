@@ -13,7 +13,7 @@ class Array
 				Console.Write(" ");
 			}
 
-			Console.WriteLine();
+			Console.WriteLine("");
 		}
 	}	
 }
