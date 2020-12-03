@@ -14,11 +14,11 @@ class List
 
         max = myList[0];
         
-	foreach (var item in myList)
+	foreach (var element in myList)
 	{
-		if (item > max)
+		if (element > max)
 		{
-			max = item;
+			max = element;
 		}
 	}
 	return (max);
