@@ -6,7 +6,7 @@ class MyStack
     public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
         // Print the number of items in the aStack
-        Console.Write("Number of items: {0}", aStack.Count, "\n");
+        Console.WriteLine("Number of items: {0}", aStack.Count);
 
         // Print the item at the top of aStack without removing it
         if (aStack.Count != 0)
