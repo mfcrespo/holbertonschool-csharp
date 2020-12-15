@@ -5,9 +5,9 @@ class List
 {
     public static int SafePrint(List<int> myList, int n)
     {
-        int number_list = 0;
+        int count = 0;
 
-        for (int element = 0; element < n; element++, number_list++)
+        for (int element = 0; element < n; element++, count++)
         {
             try
             {
@@ -19,6 +19,6 @@ class List
             }
         }
 
-        return (number_list);
+        return (count);
     }
 }
