@@ -13,14 +13,14 @@ class List
             {
                 new_list.Add(list1[i] / list2[i]);
             }
-            catch (System.ArgumentOutOfRangeException)
-            {
-                Console.WriteLine("Out of range");
-            }
-            catch (DivideByZeroException)
+	    catch (DivideByZeroException)
             {
                 new_list.Add(0);
                 Console.WriteLine("Cannot divide by zero");
+            }
+            catch (System.ArgumentOutOfRangeException)
+            {
+                Console.WriteLine("Out of range");
             }
         }
 
