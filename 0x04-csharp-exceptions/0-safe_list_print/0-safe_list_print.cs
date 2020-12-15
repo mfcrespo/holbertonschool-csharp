@@ -7,11 +7,11 @@ class List
     {
         int count = 0;
 
-        for (int element = 0; element < n; element++, count++)
+        for (int i = 0; i < n; i++, count++)
         {
             try
             {
-                Console.WriteLine(myList[element]);
+                Console.WriteLine(myList[i]);
             }
             catch (System.Exception)
             {
