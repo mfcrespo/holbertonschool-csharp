@@ -1,4 +1,4 @@
-![](https://www.shekhali.com/wp-content/uploads/2021/02/Generic-method-in-c.png)
+![](https://www.codemag.com/Article/Image/070083/fig1CH11.JPG)
 
 # 0x0A. C# - Generics
 
@@ -19,12 +19,12 @@
 
 | **Filename** | **Description** |
 |---|---|
-| [0. Queue  ](0-queue/, 0-queue/0-queue.csproj, 0-queue/queue.cs) | Create a new class called Queue<T>  |
-| [1. Enqueue  ](1-enqueue/, 1-enqueue/1-enqueue.csproj, 1-enqueue/queue.cs) | Based on 0-queue, within Queue<T>, create a public class called Node  |
-| [2. Dequeue  ](2-dequeue/, 2-dequeue/2-dequeue.csproj, 2-dequeue/queue.cs) | Based on 1-enqueue, add a new method Dequeue() to the class Queue<T> that removes the first node in the queue and returns its value.  |
-| [3. Peek  ](3-peek/, 3-peek/3-peek.csproj, 3-peek/queue.cs) | Based on 2-dequeue, add a new method Peek() to the class Queue<T> that returns the value of the first node of the queue without removing the node.  |
-| [4. Print  ](4-print/, 4-print/4-print.csproj, 4-print/queue.cs) | Based on 3-peek, add a new method Print() to the class Queue<T> that prints the queue, starting from the head.  |
-| [5. Concatenate  ](5-concatenate/, 5-concatenate/5-concatenate.csproj, 5-concatenate/queue.cs) | BBased on 4-print, create a method Concatenate() that concatenates all values in the queue only if the queue is of type String or Char  |
+| [0. Queue  ] | (0-queue/, 0-queue/0-queue.csproj, 0-queue/queue.cs) | Create a new class called Queue<T>  |
+| [1. Enqueue  ] | (1-enqueue/, 1-enqueue/1-enqueue.csproj, 1-enqueue/queue.cs) | Based on 0-queue, within Queue<T>, create a public class called Node  |
+| [2. Dequeue  ] | (2-dequeue/, 2-dequeue/2-dequeue.csproj, 2-dequeue/queue.cs) | Based on 1-enqueue, add a new method Dequeue() to the class Queue<T> that removes the first node in the queue and returns its value.  |
+| [3. Peek  ] | (3-peek/, 3-peek/3-peek.csproj, 3-peek/queue.cs) | Based on 2-dequeue, add a new method Peek() to the class Queue<T> that returns the value of the first node of the queue without removing the node.  |
+| [4. Print  ] | (4-print/, 4-print/4-print.csproj, 4-print/queue.cs) | Based on 3-peek, add a new method Print() to the class Queue<T> that prints the queue, starting from the head.  |
+| [5. Concatenate  ] | (5-concatenate/, 5-concatenate/5-concatenate.csproj, 5-concatenate/queue.cs) | BBased on 4-print, create a method Concatenate() that concatenates all values in the queue only if the queue is of type String or Char  |
 
 #### Follow me 💬
 
