@@ -1,4 +1,4 @@
-![](https://www.codemag.com/Article/Image/070083/fig1CH11.JPG)
+![](https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png)
 
 # 0x0A. C# - Generics
 
@@ -17,8 +17,8 @@
 
 ### Tasks
 
-| **Filename** | **Description** |
-|---|---|
+| **Filename** | **Files** | **Description** |
+|---|---|---|
 | [0. Queue  ] | (0-queue/, 0-queue/0-queue.csproj, 0-queue/queue.cs) | Create a new class called Queue<T>  |
 | [1. Enqueue  ] | (1-enqueue/, 1-enqueue/1-enqueue.csproj, 1-enqueue/queue.cs) | Based on 0-queue, within Queue<T>, create a public class called Node  |
 | [2. Dequeue  ] | (2-dequeue/, 2-dequeue/2-dequeue.csproj, 2-dequeue/queue.cs) | Based on 1-enqueue, add a new method Dequeue() to the class Queue<T> that removes the first node in the queue and returns its value.  |
